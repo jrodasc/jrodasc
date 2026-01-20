@@ -57,11 +57,11 @@ I enjoy working close to both development and operations teams, taking ownership
 
 ---
 
-### 🌐 Networking & Infrastructure Utilities
-Tools and scripts focused on connectivity, troubleshooting and infrastructure operations.
+🌐 Server Hardening & Infrastructure Utilities  
+Practical guides and configurations focused on Linux server security, SSH hardening, and basic infrastructure protection.
 
-🛠️ Tech: Linux · Networking · Bash / Scripts  
-🔗 Repo: https://github.com/jrodasc/your-repo-name
+🛠️ Tech: Linux · SSH · Server Hardening · Fail2Ban · Bash  
+🔗 Repo: https://github.com/jrodasc/Gu-a-SSH-ed25519---Cliente
 
 ---
 
